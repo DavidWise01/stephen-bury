@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "gov-william-cozzano",
+    "name": "Gov. William Cozzano",
+    "epithet": "Interface — the stroke-stricken presidential candidate fitte",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Gov. William Cozzano:SBY:922b8a⟧"
+  },
+  {
+    "slug": "eleanor-richmond",
+    "name": "Eleanor Richmond",
+    "epithet": "Interface — a sharp, unlikely political figure who rises wit",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Eleanor Richmond:SBY:1f9455⟧"
+  },
+  {
+    "slug": "the-biochip-the-network",
+    "name": "The Biochip & the Network",
+    "epithet": "Interface — the implant plus monitored citizens that turn a ",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Biochip & the Network:SBY:7c5309⟧"
+  },
+  {
+    "slug": "deputy-clyde-banks",
+    "name": "Deputy Clyde Banks",
+    "epithet": "The Cobweb — the Iowa lawman (wife deployed to the Gulf) who",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Deputy Clyde Banks:SBY:708ec0⟧"
+  },
+  {
+    "slug": "betsy-vandeventer",
+    "name": "Betsy Vandeventer",
+    "epithet": "The Cobweb — the CIA analyst piecing together the Iraqi plot",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Betsy Vandeventer:SBY:8dd495⟧"
+  },
+  {
+    "slug": "the-bioweapon-in-academia-plot",
+    "name": "The Bioweapon-in-Academia Plot",
+    "epithet": "The Cobweb — weaponized biology incubated through US univers",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Bioweapon-in-Academia Plot:SBY:11d3de⟧"
+  }
+]
